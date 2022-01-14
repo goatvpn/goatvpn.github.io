@@ -31,3 +31,5 @@ synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540oper
 
+facebook.com, 292404819574153, DIRECT, c3e20eee3f780d68
+
